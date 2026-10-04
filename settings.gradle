@@ -1,0 +1,4 @@
+rootProject.name = 'javafx'
+
+include '18_JPA'
+include 'main'
